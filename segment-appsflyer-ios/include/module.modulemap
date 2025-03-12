@@ -1,0 +1,5 @@
+module segment_appsflyer_ios {
+    umbrella header "segment_appsflyer_ios.h"
+    export *
+    link "segment-appsflyer-ios"
+}

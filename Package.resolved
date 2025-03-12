@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Segment",
+        "repositoryURL": "https://github.com/usespeakeasy/analytics-ios",
+        "state": {
+          "branch": "master",
+          "revision": "c07e63578f4466d74a8b1cf6b3d5fca50cf6aa15",
+          "version": null
+        }
+      },
+      {
+        "package": "AppsFlyerLib",
+        "repositoryURL": "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git",
+        "state": {
+          "branch": null,
+          "revision": "af34494864065f56bd769aa76db954fb0035cf96",
+          "version": "6.15.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
