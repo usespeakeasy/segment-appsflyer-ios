@@ -16,7 +16,7 @@ let package = Package(
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-        .package(url: "https://github.com/usespeakeasy/analytics-ios", branch: "master"),
+        .package(url: "https://github.com/usespeakeasy/analytics-ios", from: "1.0.0"),
         .package(name: "AppsFlyerLib" , url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git", .exact("6.15.1")),
     ],
     targets: [
