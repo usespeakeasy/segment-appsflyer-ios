@@ -5,9 +5,9 @@
         "package": "Segment",
         "repositoryURL": "https://github.com/usespeakeasy/analytics-ios",
         "state": {
-          "branch": "master",
-          "revision": "c07e63578f4466d74a8b1cf6b3d5fca50cf6aa15",
-          "version": null
+          "branch": null,
+          "revision": "964704db7158ad56e2a7d9530c2afa20d42f757a",
+          "version": "1.0.1"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git",
         "state": {
           "branch": null,
-          "revision": "af34494864065f56bd769aa76db954fb0035cf96",
-          "version": "6.15.1"
+          "revision": "9af29d0e961580213771cd71e09ae81a472ed72e",
+          "version": "6.17.2"
         }
       }
     ]
